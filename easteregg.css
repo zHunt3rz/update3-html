@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+}
+
+.center {
+    text-align: center;
+}

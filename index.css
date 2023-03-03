@@ -1,0 +1,59 @@
+body{
+    font-family: sans-serif;
+    color: white;
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p3/1987871-abstrato-preto-listras-diagonal-fundo-gratis-vetor.jpg);
+    background-repeat: no-repeat;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+h1 {
+    text-align: center;
+    animation: color 8s infinite;
+}
+
+.center {
+    text-align: center
+}
+
+a {
+    font-size: 25px;
+    text-decoration: none;
+    animation: color 8s infinite;
+}
+
+@keyframes color {
+    0% {color:blue}
+    10% {color:blueviolet}
+    20% {color:red}
+    30% {color:green}
+    40% {color:yellow}
+    50% {color:aqua}
+    60% {color:purple}
+    70% {color:cyan}
+    80% {color:coral}
+    90% {color:orangered}
+    100% {color:orange}
+}
+
+div {
+    text-align: center;
+    color: red;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    text-decoration: none;
+}
